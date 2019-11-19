@@ -1,0 +1,23 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "script1": "browserify script.js > bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jabneel/background-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jabneel/background-generator/issues"
+  },
+  "homepage": "https://github.com/jabneel/background-generator#readme",
+  "dependencies": {
+    "browserify-shim": "^3.8.14",
+    "lodash": "^4.17.15"
+  }
+}
