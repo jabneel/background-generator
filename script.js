@@ -12,7 +12,7 @@ var button = document.getElementById("randomize");
 console.log(body);
 
 function setGradient(){
-	body.style.background="linear-gradient(to right, " 
+	body.style.background="linear-gradient(to left, " 
 		+color1.value
 		+"," 
 		+ color2.value 
